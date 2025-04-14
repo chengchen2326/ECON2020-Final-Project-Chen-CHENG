@@ -41,7 +41,7 @@ ContaminationBiasSim/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<chengchen2326>/ECON2020-Final-Project-Chen-CHENG.git
+   git clone https://github.com/chengchen2326/ECON2020-Final-Project-Chen-CHENG.git
    cd ECON2020-Final-Project-Chen-CHENG
    
 2. **Restore the R Environment:**
